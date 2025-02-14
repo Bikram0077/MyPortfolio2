@@ -264,11 +264,11 @@ function App() {
                   transition={{ duration: 0.8 }}
                   className="absolute inset-0 bg-[#64ffda] rounded-lg"
                 />
-                <motion.png 
+                <motion.img 
                   initial={{ opacity: 0, scale: 0.8 }}
                   animate={{ opacity: 1, scale: 1 }}
                   transition={{ duration: 0.8 }}
-                  src="https://res.cloudinary.com/des4un3c1/image/upload/v1739537262/bikrms_rm4tfs.png"
+                  src="https://res.cloudinary.com/des4un3c1/image/upload/v1739537658/dfhsd_yzkisv.jpg"
                   alt="Bikram Dhami"
                   className="relative z-10 rounded-lg shadow-xl w-full max-w-md mx-auto grayscale hover:grayscale-0 transition-all duration-300"
                 />
