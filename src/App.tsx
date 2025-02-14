@@ -268,7 +268,7 @@ function App() {
                   initial={{ opacity: 0, scale: 0.8 }}
                   animate={{ opacity: 1, scale: 1 }}
                   transition={{ duration: 0.8 }}
-                  src="https://scontent.fpkr1-1.fna.fbcdn.net/v/t39.30808-6/319854352_1109371439779670_4368647273257025064_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=o_qoyXSRMBIQ7kNvgGrztQw&_nc_oc=AdhUfKOFl_9M_L9HI3WC658bhGYAeaw1flW7jhKCfJO0SmuU5ndci5XrC1TtcTcVTEEi9EQrTqpLCIUDIyNQKpvv&_nc_zt=23&_nc_ht=scontent.fpkr1-1.fna&_nc_gid=Agk5Fl-Pw3lwNaiJsKU3-OJ&oh=00_AYCnqTc4HuCHUTn0445yEya-HoGfnsNF3K_xxNI1eMc6yQ&oe=67A52E32"
+                  src="https://res.cloudinary.com/des4un3c1/image/upload/v1739537262/bikrms_rm4tfs.png"
                   alt="Bikram Dhami"
                   className="relative z-10 rounded-lg shadow-xl w-full max-w-md mx-auto grayscale hover:grayscale-0 transition-all duration-300"
                 />
