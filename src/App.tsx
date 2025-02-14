@@ -264,7 +264,7 @@ function App() {
                   transition={{ duration: 0.8 }}
                   className="absolute inset-0 bg-[#64ffda] rounded-lg"
                 />
-                <motion.img 
+                <motion.png 
                   initial={{ opacity: 0, scale: 0.8 }}
                   animate={{ opacity: 1, scale: 1 }}
                   transition={{ duration: 0.8 }}
